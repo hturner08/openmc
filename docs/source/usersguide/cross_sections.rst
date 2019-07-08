@@ -43,7 +43,7 @@ following environment variables are used:
   :ref:`cross_sections` in :ref:`materials.xml <io_materials>`).
 
 :envvar:`OPENMC_MG_CROSS_SECTIONS`
-  Indicates the path to the an :ref:`HDF5 file <io_mgxs_library>` that contains
+  Indicates the path to an :ref:`HDF5 file <io_mgxs_library>` that contains
   multi-group cross sections if the user has not specified
   :attr:`Materials.cross_sections` (equivalently, the :ref:`cross_sections` in
   :ref:`materials.xml <io_materials>`).
